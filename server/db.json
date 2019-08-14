@@ -93,17 +93,6 @@
   ],
   "projects": [
     {
-      "id": "1",
-      "title": "Project One",
-      "details": "This is a sample project",
-      "percentComplete": 20,
-      "approved": false,
-      "startDate": null,
-      "targetDate": null,
-      "completionDate": null,
-      "customerId": "1"
-    },
-    {
       "id": "2",
       "title": "Project Two",
       "details": "This is a sample project",
@@ -115,17 +104,6 @@
       "customerId": "3"
     },
     {
-      "id": "3",
-      "title": "Project Three",
-      "details": "This is a sample project",
-      "percentComplete": 60,
-      "approved": false,
-      "startDate": null,
-      "targetDate": null,
-      "completionDate": null,
-      "customerId": "7"
-    },
-    {
       "id": "5",
       "title": "Project Five",
       "details": "This is a sample project",
@@ -135,6 +113,22 @@
       "targetDate": "2018-10-26T07:00:00.000Z",
       "completionDate": null,
       "customerId": "1"
+    },
+    {
+      "id": "YyE2S2r",
+      "title": "srff",
+      "details": "sdf",
+      "percentComplete": 31,
+      "approved": false,
+      "customerId": "2"
+    },
+    {
+      "id": "OwG4RNv",
+      "title": "srff",
+      "details": "sdf",
+      "percentComplete": 31,
+      "approved": true,
+      "customerId": "2"
     }
   ]
 }
